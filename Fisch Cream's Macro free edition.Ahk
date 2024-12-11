@@ -74,10 +74,8 @@ Global MiniGameYRight := Round((RobloxHeight / 1080) * 939) ; Right Y coordinate
 
 ; = = = = = = = = = = = = = = = = = = = = 
 ; Define coordinates for the shake area (used to detect screen shake)
-Global ShakeXLeft  := Round((RobloxWidth / 800) * 100)   ; Left X coordinate for shake detection
-Global ShakeYLeft  := Round((RobloxHeight / 800) * 175)  ; Left Y coordinate for shake detection
-Global ShakeXRight := Round((RobloxWidth / 800) * 700)   ; Right X coordinate for shake detection
-Global ShakeYRight := Round((RobloxHeight / 800) * 675)  ; Right Y coordinate for shake detection
+Global ShakeXLeft  := Round((RobloxWidth / 800) * 100)   ; Left \ coordinate for shake detection
+Global ShakeYLeft  := Round((RobloxHeight / 800) * 175)  ; Left s coordinate for shake detection
 
 ; = = = = = = = = = = = = = = = = = = = = 
 ; Define color targets for different screen elements (fish, white, and bar)
